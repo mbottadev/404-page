@@ -1,20 +1,20 @@
 # 404-page
 
 ## Time-line
-Cet exercice a été réalisé tout au début de ma formation, après 2 semaines.
+Exercice realised at the very beginning of the training, only two weeks.
 
-## _Consignes de l'exercice:_ 
+## _Exercise Instructions:_ 
 
 <img src="repo404.png" alt="photo"/>
 
  
-## Editeur de texte utilisé pour coder:
+##  Text Editor:
 Visual Studio Code
 
 
-## Langages utilisés:
+## Programming langages:
 - HTML
 - CSS  
 
 ## Responsive? 
-Bien évidemment!
+Of course!
