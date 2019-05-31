@@ -1,6 +1,6 @@
 # 404-page
 
-## Time-line
+## Timeline
 Exercice realised at the very beginning of the training, only two weeks.
 
 ## _Exercise Instructions:_ 
